@@ -1,0 +1,55 @@
+1- 
+1.=hardware 
+2.=hardware
+3.=software
+4.=software
+5.=hardware
+
+2- Software é uma série de instruções escritas para serem interpretadas por um computador para executar uma tarefa específica. Também pode ser definido como os programas, dados e instruções que controlam o funcionamento de equipamentos eletrônicos. Os softwares são de grande importância, uma vez que auxiliam o usuário em diversas tarefas do cotidiano e também possibilitam o devido controle e processamento de dados das empresas, o que acarreta na melhora da produtividade
+
+3- Os algoritimos são sequências de instruções. Podem ter diversas finalidades, mas no geral serve para resolver um problema 
+
+4- os aplicativos de streaming, jogos mobile, aplicativos de resolução de questões, são todos ótimos exemplos de softwares
+
+5- Um software que facilita minha vida é o whatsapp, o software que dificulta é o aplicativo do governo gov.br
+
+6- atualmente, grande parte da rotina tem relação com a computação, porém, para mim  a hora de acordar é diretamente ligada a isso, pois meu despertador é o dispositivo alexa
+
+7- a comunicação instânea 
+
+8- uTorrent, Google Chrome, epic games, steam, discord, instagram, whatsapp, amazon alexa, excel, power point, word
+
+9- caminhar na natureza, cozinhar, praticar um esporte ao ar livre, como o vôlei, fazer jardinagem, desenhar, resolver um quebra cabeça, escrever uma carta, meditar, observar estrelas, acampar
+
+10- Com alguns empregos, sim, pórem se o conjunto de leis que dizem respeito a inteligencia artificial continuarem sendo respeitadas, as inteligencias artificiais ainda vão necessitar de programadores e pessoas humanas para suas manutenções. 
+
+11- meu computador tem processador intel i5, memoria ssd de 512gb e um hd externo de 1tb
+
+12- Gire a face superior uma única vez em sentido horário.Gire a face direita duas vezes em sentido horário. Gire a face da frente (virada para você) do cubo mágico uma vez em sentido horário. Gire a face de trás do cubo mágico duas vezes em sentido horário. Gire a face de cima do cubo mágico duas vezes em sentido horário. Termine girando a face da frente duas vezes em sentido horário
+
+13- Byte é um conjunto de 8 bits de dados
+
+14- A conversão de números decimais em binários é realizada por meio da divisão sucessiva do número decimal por 2, anotando-se o resto de cada divisão e invertendo a ordem deles para obter a representação binária do número
+
+15- Divida (150)10 sucessivamente por 2 até que o quociente seja igual a 0:
+
+150/2 = 75, resto = 0
+75/2 = 37, resto = 1
+37/2 = 18, resto = 1
+18/2 = 9, resto = 0
+9/2 = 4, resto = 1
+4/2 = 2, resto = 0
+2/2 = 1, resto = 0
+1/2 = 0, resto = 1
+resposta= 10010110
+
+16- Os scrum masters garantem que todos os membros da equipe e as partes interessadas entendam o status, as metas e os obstáculos do projeto. Já o dono do produto, é conhecido como responsável pela maximização do valor do Produto a ser entregue aos seus clientes ou usuários. Já o time de desenvolvimento é responsável por construir o produto que o cliente irá utilizar
+
+17- para copiar= ctrl c
+para colar= ctrl b
+para mover= ctrl x
+para excluir= delete
+
+18- Para redes sem fio Bluetooth, o padrão definido pelo IEEE é denominado IEEE 802.15.1. Este padrão especifica os requisitos da camada física (PHY) e da camada de acesso à mídia (MAC) para comunicações sem fio de curto alcance em dispositivos pessoais.
+
+Para redes Wi-Fi, o padrão mais comum é o IEEE 802.11. Existem várias subcategorias no IEEE 802.11, como 802.11a, 802.11b, 802.11g, 802.11n, 802.11ac e 802.11ax (Wi-Fi 6 e Wi-Fi 6E). Cada subcategoria define especificações diferentes para velocidade, frequência e outras características de redes locais sem fio (WLANs).
